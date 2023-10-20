@@ -1,2 +1,0 @@
-Paris is beautiful in the Spring
-pandas == 2.1.0
